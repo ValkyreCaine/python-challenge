@@ -6,8 +6,8 @@ import csv
 import os
 
 # Files to load and output 
-csv_path = os.path.join("Resources", "budget_data.csv")  # Input file path 
-output_path = os.path.join("Analysis", "budget_analysis.txt")  # Output file path
+csv_path = os.path.join("PyBank", "Resources", "budget_data.csv")  # Input file path 
+output_path = os.path.join("PyBank", "Analysis", "budget_analysis.txt")  # Output file path
 
 # Define variables to track the financial data
 total_months = 0
