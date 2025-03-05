@@ -35,7 +35,7 @@ with open(csv_path) as election_data:
             total_votes +=1
 
         # Get the candidate's name from the row
-            candidate_names=row[2].strip()
+            candidate_names=row[2]
 
         # If the candidate is not already in the candidate list, add them
             if candidate_names not in candidates: 
