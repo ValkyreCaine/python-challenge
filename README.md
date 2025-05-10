@@ -2,7 +2,7 @@ Hello there!
 
 This project as part of UCI's Data Anyltics Bootcamp demonstrates the step up from excel/ VBA into one of the most commonly used coding languages, python with limited libraries! 
 
-It is broked up into two folders, PyBank and PyPoll.
+It is broken up into two folders, PyBank and PyPoll.
 
 PyBank:
 I was tasked with creating a python script to analyze financial records of a company. The script I created writes a file at the end including the Financial Analysis.
